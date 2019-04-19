@@ -1,4 +1,8 @@
+这个代表了beta版本
+
 使用说明：
+
+
 
 将代码下载下来以后配置到eclipse以后，记得要添加 library
 步骤为 邮件单击项目 ，选择build path -> configure build path
